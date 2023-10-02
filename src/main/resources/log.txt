@@ -1,0 +1,11 @@
+[ERROR]  [2022-12-30 00:38:00] Project Explorer cannot be deleted!
+[ERROR]  [2022-12-30 00:46:10] Please select project!
+[ERROR]  [2022-12-30 00:46:14] Please select project!
+[ERROR]  [2022-12-30 00:47:20] Please select project!
+[ERROR]  [2022-12-30 00:53:37] Please select project!
+[ERROR]  [2022-12-30 01:22:45] Please select project!
+[ERROR]  [2022-12-30 10:27:54] Please select project!
+[ERROR]  [2023-09-18 15:13:48] Please select project!
+[ERROR]  [2023-09-27 12:47:08] Project Explorer cannot be deleted!
+[ERROR]  [2023-10-01 14:55:07] Author can only be added to the project.
+[ERROR]  [2023-10-01 15:18:20] Author can only be added to the project.
